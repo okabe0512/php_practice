@@ -1,5 +1,4 @@
 <?php
-echo 'hello php!';
 
 //課題１
 $a = 3;
