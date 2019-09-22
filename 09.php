@@ -16,7 +16,7 @@
    を書いてみてください。
 
 
-    Route::group(['prefix' => 'XXX'],functioon(){
+    Route::group(['prefix' => 'XXX'],function(){
       Route::get('', AAAController@bbb');
     });
 
