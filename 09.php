@@ -17,7 +17,7 @@
 
 
     Route::group(['prefix' => 'XXX'],functioon(){
-      Route::get('XXX, AAAController@bbb');
+      Route::get('', AAAController@bbb');
     });
 
 別解
